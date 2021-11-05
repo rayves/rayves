@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Raymond, and i'm an ex-accounting currently exploring the world of programming and looking to make this a new exciting career!
 
 <!--
 **rayves/rayves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
