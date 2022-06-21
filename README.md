@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./RV-white.svg" style="width: 20rem">
+</div>
+  
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 <h3 align="center">I'm an ex-accounting currently exploring the world of programming and looking to make this a new exciting career!</h3>
 
